@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B044AD3524BF81C800E98A35 /* WinterQ1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B044AD3424BF81C800E98A35 /* WinterQ1ViewController.swift */; };
+		B044AD3724BF846600E98A35 /* WinterNatureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B044AD3624BF846600E98A35 /* WinterNatureViewController.swift */; };
+		B044AD3924BF869500E98A35 /* WinterNatureAloneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B044AD3824BF869500E98A35 /* WinterNatureAloneViewController.swift */; };
+		B044AD3D24BF899F00E98A35 /* WinterNatureFriendsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B044AD3C24BF899F00E98A35 /* WinterNatureFriendsViewController.swift */; };
+		B044AD3F24BF8DF000E98A35 /* WinterCityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B044AD3E24BF8DF000E98A35 /* WinterCityViewController.swift */; };
+		B044AD4124BF8FB200E98A35 /* WinterCityCultureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B044AD4024BF8FB200E98A35 /* WinterCityCultureViewController.swift */; };
+		B044AD4324BF914500E98A35 /* WinterCityShoppingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B044AD4224BF914500E98A35 /* WinterCityShoppingViewController.swift */; };
 		B0C9125324BE2B7E004649E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0C9125224BE2B7E004649E5 /* AppDelegate.swift */; };
 		B0C9125524BE2B7E004649E5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0C9125424BE2B7E004649E5 /* SceneDelegate.swift */; };
 		B0C9125724BE2B7E004649E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0C9125624BE2B7E004649E5 /* ViewController.swift */; };
@@ -14,9 +21,17 @@
 		B0C9125D24BE2B7E004649E5 /* mappy.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B0C9125B24BE2B7E004649E5 /* mappy.xcdatamodeld */; };
 		B0C9125F24BE2B8C004649E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0C9125E24BE2B8C004649E5 /* Assets.xcassets */; };
 		B0C9126224BE2B8C004649E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0C9126024BE2B8C004649E5 /* LaunchScreen.storyboard */; };
+		B0C9126A24BEA973004649E5 /* QuestionOneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0C9126924BEA972004649E5 /* QuestionOneViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B044AD3424BF81C800E98A35 /* WinterQ1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinterQ1ViewController.swift; sourceTree = "<group>"; };
+		B044AD3624BF846600E98A35 /* WinterNatureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinterNatureViewController.swift; sourceTree = "<group>"; };
+		B044AD3824BF869500E98A35 /* WinterNatureAloneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinterNatureAloneViewController.swift; sourceTree = "<group>"; };
+		B044AD3C24BF899F00E98A35 /* WinterNatureFriendsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinterNatureFriendsViewController.swift; sourceTree = "<group>"; };
+		B044AD3E24BF8DF000E98A35 /* WinterCityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinterCityViewController.swift; sourceTree = "<group>"; };
+		B044AD4024BF8FB200E98A35 /* WinterCityCultureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinterCityCultureViewController.swift; sourceTree = "<group>"; };
+		B044AD4224BF914500E98A35 /* WinterCityShoppingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinterCityShoppingViewController.swift; sourceTree = "<group>"; };
 		B0C9124F24BE2B7E004649E5 /* mappy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mappy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0C9125224BE2B7E004649E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B0C9125424BE2B7E004649E5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -26,6 +41,7 @@
 		B0C9125E24BE2B8C004649E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B0C9126124BE2B8C004649E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B0C9126324BE2B8C004649E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B0C9126924BEA972004649E5 /* QuestionOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionOneViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,13 +75,21 @@
 			isa = PBXGroup;
 			children = (
 				B0C9125224BE2B7E004649E5 /* AppDelegate.swift */,
+				B044AD3C24BF899F00E98A35 /* WinterNatureFriendsViewController.swift */,
+				B044AD3824BF869500E98A35 /* WinterNatureAloneViewController.swift */,
 				B0C9125424BE2B7E004649E5 /* SceneDelegate.swift */,
 				B0C9125624BE2B7E004649E5 /* ViewController.swift */,
+				B044AD3424BF81C800E98A35 /* WinterQ1ViewController.swift */,
 				B0C9125824BE2B7E004649E5 /* Main.storyboard */,
+				B044AD3E24BF8DF000E98A35 /* WinterCityViewController.swift */,
+				B044AD3624BF846600E98A35 /* WinterNatureViewController.swift */,
 				B0C9125E24BE2B8C004649E5 /* Assets.xcassets */,
 				B0C9126024BE2B8C004649E5 /* LaunchScreen.storyboard */,
+				B044AD4224BF914500E98A35 /* WinterCityShoppingViewController.swift */,
 				B0C9126324BE2B8C004649E5 /* Info.plist */,
+				B044AD4024BF8FB200E98A35 /* WinterCityCultureViewController.swift */,
 				B0C9125B24BE2B7E004649E5 /* mappy.xcdatamodeld */,
+				B0C9126924BEA972004649E5 /* QuestionOneViewController.swift */,
 			);
 			path = mappy;
 			sourceTree = "<group>";
@@ -141,9 +165,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B044AD3724BF846600E98A35 /* WinterNatureViewController.swift in Sources */,
 				B0C9125724BE2B7E004649E5 /* ViewController.swift in Sources */,
+				B044AD4324BF914500E98A35 /* WinterCityShoppingViewController.swift in Sources */,
+				B044AD3524BF81C800E98A35 /* WinterQ1ViewController.swift in Sources */,
 				B0C9125D24BE2B7E004649E5 /* mappy.xcdatamodeld in Sources */,
 				B0C9125324BE2B7E004649E5 /* AppDelegate.swift in Sources */,
+				B044AD3D24BF899F00E98A35 /* WinterNatureFriendsViewController.swift in Sources */,
+				B044AD4124BF8FB200E98A35 /* WinterCityCultureViewController.swift in Sources */,
+				B044AD3F24BF8DF000E98A35 /* WinterCityViewController.swift in Sources */,
+				B0C9126A24BEA973004649E5 /* QuestionOneViewController.swift in Sources */,
+				B044AD3924BF869500E98A35 /* WinterNatureAloneViewController.swift in Sources */,
 				B0C9125524BE2B7E004649E5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -289,6 +321,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C8RB45GWZC;
 				INFOPLIST_FILE = mappy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -306,6 +339,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C8RB45GWZC;
 				INFOPLIST_FILE = mappy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
